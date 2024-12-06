@@ -1,7 +1,6 @@
 {
   "name": "visor-iiee-cusco",
   "version": "1.0.0",
-  "base": "/template-datgeo/",
   "scripts": {
     "start": "vite",
     "build": "vite build",
